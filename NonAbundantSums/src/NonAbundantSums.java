@@ -12,7 +12,7 @@ import java.util.stream.IntStream;
  * 28 is a perfect number.
  * <p>
  * A number n is called deficient if the sum of its proper divisors is
- * less than n and it is called abundant if this sum exceeds n.
+ * less than n and it is called abucndant if this sum exceeds n.
  * <p>
  * As 12 is the smallest abundant number, 1 + 2 + 3 + 4 + 6 = 16,
  * the smallest number that can be written as the sum of two abundant
